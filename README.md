@@ -1,10 +1,10 @@
-# 📊 Dashboard de Análisis de Datos en Power BI
+# Dashboard de Análisis de Datos en Power BI
 
 Este proyecto contiene un informe y dashboard interactivo desarrollado en **Power BI Desktop** para el procesamiento, modelado y visualización de indicadores clave de rendimiento (KPIs), facilitando la toma de decisiones estratégicas.
 
 ---
 
-## 🚀 Características y Funcionalidades
+##  Características y Funcionalidades
 
 * **Tableros Dinámicos e Interactivos:** Visualización de métricas principales mediante tarjetas KPI, gráficos dinámicos y elementos visuales avanzados.
 * **Filtros y Segmentación:** Filtrado interactivo por categorías, regiones geográficas y períodos de tiempo.
@@ -13,7 +13,7 @@ Este proyecto contiene un informe y dashboard interactivo desarrollado en **Powe
 
 ---
 
-## 🛠️ Tecnologías Utilizadas
+##  Tecnologías Utilizadas
 
 * **Herramienta BI:** Power BI Desktop (`.pbip` / `.pbix`)
 * **Lenguajes & Consultas:** DAX (Data Analysis Expressions), Power Query (M)
@@ -22,7 +22,7 @@ Este proyecto contiene un informe y dashboard interactivo desarrollado en **Powe
 
 ---
 
-## 📁 Estructura del Repositorio
+## Estructura del Repositorio
 
 ```text
 ├── DataModel/            # Esquema relacional, métricas DAX y configuración del modelo
